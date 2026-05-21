@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Full-Stack Development
 ![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-0A0A0A?style=for-the-badge&logo=stackoverflow&logoColor=white)
